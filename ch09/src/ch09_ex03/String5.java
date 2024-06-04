@@ -1,5 +1,6 @@
 package ch09_ex03;
 // 원래 이름과 확장자명을 분리하는 법 예제
+// ** 리뷰대상
 public class String5 {
 
 	public static void main(String[] args) {

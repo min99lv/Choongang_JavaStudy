@@ -28,12 +28,12 @@ public class Point3DEx {
 		Point3D pd1 = new Point3D(1, 2, 3);
 		Point3D pd2 = new Point3D(1, 2, 4);
 		Point3D pd3 = new Point3D(1, 2, 5);
-
+//		문자 비교
 		if (pd1.equals(pd2))
 			System.out.println("같다");
 		else
 			System.out.println("다르다");
-
+//		주소값 비교
 		if (pd1 == pd2)
 			System.out.println("같다");
 		else

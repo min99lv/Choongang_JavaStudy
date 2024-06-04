@@ -1,5 +1,5 @@
 package ch09_ex03;
-
+// .getenv 환경변수를 검색해서 가져오는 메소드
 public class System1 {
 
 	public static void main(String[] args) {
